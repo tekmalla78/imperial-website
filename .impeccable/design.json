@@ -1,0 +1,215 @@
+{
+  "schemaVersion": 2,
+  "generatedAt": "2026-06-29T00:00:00.000Z",
+  "title": "Design System: Imperial Securities",
+  "extensions": {
+    "colorMeta": {
+      "brand-blue": {
+        "role": "primary",
+        "displayName": "Institutional Blue",
+        "canonical": "oklch(0.45 0.18 255)",
+        "tonalRamp": [
+          "oklch(0.15 0.06 255)",
+          "oklch(0.22 0.10 255)",
+          "oklch(0.32 0.15 255)",
+          "oklch(0.45 0.18 255)",
+          "oklch(0.58 0.16 255)",
+          "oklch(0.72 0.12 255)",
+          "oklch(0.85 0.06 255)",
+          "oklch(0.95 0.03 255)"
+        ]
+      },
+      "brand-green": {
+        "role": "secondary",
+        "displayName": "Growth Green",
+        "canonical": "oklch(0.72 0.22 155)",
+        "tonalRamp": [
+          "oklch(0.20 0.08 160)",
+          "oklch(0.32 0.12 160)",
+          "oklch(0.42 0.14 160)",
+          "oklch(0.55 0.18 155)",
+          "oklch(0.72 0.22 155)",
+          "oklch(0.82 0.16 155)",
+          "oklch(0.90 0.10 155)",
+          "oklch(0.95 0.04 155)"
+        ]
+      },
+      "brand-dark": {
+        "role": "neutral",
+        "displayName": "Ink",
+        "canonical": "oklch(0.15 0.03 265)",
+        "tonalRamp": [
+          "oklch(0.10 0.02 265)",
+          "oklch(0.15 0.03 265)",
+          "oklch(0.25 0.03 265)",
+          "oklch(0.35 0.02 265)",
+          "oklch(0.50 0.01 260)",
+          "oklch(0.65 0.01 260)",
+          "oklch(0.80 0.005 260)",
+          "oklch(0.97 0.005 260)"
+        ]
+      }
+    },
+    "typographyMeta": {
+      "display": {
+        "displayName": "Display",
+        "purpose": "Homepage hero h1 only — DM Sans extrabold, clamp scale."
+      },
+      "headline": {
+        "displayName": "Headline",
+        "purpose": "PageHero and major section titles."
+      },
+      "body": {
+        "displayName": "Body",
+        "purpose": "Prose, forms, FAQs — DM Sans 14–16px, max 75ch."
+      },
+      "label": {
+        "displayName": "Section kicker",
+        "purpose": "One per page max on new work — 11.5px uppercase tracking 2px."
+      }
+    },
+    "shadows": [
+      {
+        "name": "header-ambient",
+        "value": "0 2px 20px rgba(21,87,192,0.08)",
+        "purpose": "SiteHeader resting elevation."
+      },
+      {
+        "name": "cta-green-glow",
+        "value": "0 8px 24px -8px rgba(55,210,0,0.55)",
+        "purpose": "Primary Open Account button only."
+      },
+      {
+        "name": "card-hover",
+        "value": "0 4px 12px rgba(0,0,0,0.08)",
+        "purpose": "Download rows and team cards on hover."
+      }
+    ],
+    "motion": [
+      {
+        "name": "ease-standard",
+        "value": "cubic-bezier(0.16, 1, 0.3, 1)",
+        "purpose": "Default hover and reveal transitions — ease-out, no bounce."
+      },
+      {
+        "name": "hover-lift",
+        "value": "transform 0.2s cubic-bezier(0.16, 1, 0.3, 1)",
+        "purpose": "CTA and card hover translateY(-2px)."
+      }
+    ],
+    "breakpoints": [
+      { "name": "sm", "value": "640px" },
+      { "name": "md", "value": "768px" },
+      { "name": "lg", "value": "1024px" },
+      { "name": "xl", "value": "1280px" }
+    ]
+  },
+  "components": [
+    {
+      "name": "Primary CTA",
+      "kind": "button",
+      "refersTo": "button-primary",
+      "description": "Main conversion action — Open Account, green gradient.",
+      "html": "<button class=\"ds-btn-primary\">Open Account<svg class=\"ds-btn-icon\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\"><path d=\"M5 12h14M13 6l6 6-6 6\"/></svg></button>",
+      "css": ".ds-btn-primary { display: inline-flex; align-items: center; gap: 8px; background: linear-gradient(to right, oklch(0.72 0.22 155), oklch(0.42 0.14 160)); color: #fff; font-family: 'DM Sans', sans-serif; font-size: 14px; font-weight: 700; padding: 14px 24px; border: none; border-radius: 12px; box-shadow: 0 8px 24px -8px rgba(55,210,0,0.55); cursor: pointer; transition: transform 0.2s cubic-bezier(0.16,1,0.3,1); } .ds-btn-primary:hover { transform: translateY(-2px); } .ds-btn-primary:focus-visible { outline: 2px solid oklch(0.45 0.18 255); outline-offset: 2px; } .ds-btn-icon { width: 16px; height: 16px; }"
+    },
+    {
+      "name": "Secondary CTA",
+      "kind": "button",
+      "refersTo": "button-secondary",
+      "description": "Outline action on light backgrounds — View Market, Read FAQs.",
+      "html": "<button class=\"ds-btn-secondary\">View Live Market</button>",
+      "css": ".ds-btn-secondary { display: inline-flex; align-items: center; gap: 8px; background: #fff; color: oklch(0.45 0.18 255); font-family: 'DM Sans', sans-serif; font-size: 14px; font-weight: 600; padding: 14px 24px; border: 1px solid oklch(0.45 0.18 255 / 0.2); border-radius: 12px; cursor: pointer; transition: border-color 0.2s; } .ds-btn-secondary:hover { border-color: oklch(0.45 0.18 255); } .ds-btn-secondary:focus-visible { outline: 2px solid oklch(0.45 0.18 255); outline-offset: 2px; }"
+    },
+    {
+      "name": "Text Input",
+      "kind": "input",
+      "refersTo": "input-default",
+      "description": "Contact and form fields — rounded-lg with blue focus ring.",
+      "html": "<label class=\"ds-field\"><span class=\"ds-field-label\">Full Name</span><input class=\"ds-input\" type=\"text\" placeholder=\"Your full name\" /></label>",
+      "css": ".ds-field { display: block; } .ds-field-label { display: block; margin-bottom: 6px; font-family: 'DM Sans', sans-serif; font-size: 12px; font-weight: 600; color: oklch(0.15 0.03 265); } .ds-input { width: 100%; padding: 10px 12px; font-family: 'DM Sans', sans-serif; font-size: 14px; border: 1px solid oklch(0.92 0.01 260); border-radius: 8px; background: oklch(0.97 0.005 260 / 0.3); transition: border-color 0.2s, box-shadow 0.2s; } .ds-input:focus { outline: none; border-color: oklch(0.45 0.18 255); box-shadow: 0 0 0 2px oklch(0.45 0.18 255 / 0.1); }"
+    },
+    {
+      "name": "Download Row",
+      "kind": "card",
+      "refersTo": "card-list-row",
+      "description": "PDF download list item on Downloads page.",
+      "html": "<a class=\"ds-download-row\" href=\"#\"><span class=\"ds-download-title\">Individual Client Registration Form (KYC)</span><span class=\"ds-download-action\">Download</span></a>",
+      "css": ".ds-download-row { display: grid; grid-template-columns: auto 1fr auto; align-items: center; gap: 16px; padding: 14px 20px; background: #fff; border: 1px solid oklch(0.92 0.01 260); border-radius: 12px; text-decoration: none; transition: transform 0.2s, border-color 0.2s, box-shadow 0.2s; } .ds-download-row:hover { transform: translateY(-2px); border-color: oklch(0.45 0.18 255 / 0.5); box-shadow: 0 4px 12px rgba(0,0,0,0.08); } .ds-download-title { font-family: 'DM Sans', sans-serif; font-size: 15px; font-weight: 600; color: oklch(0.15 0.03 265); } .ds-download-action { font-family: 'DM Sans', sans-serif; font-size: 13px; font-weight: 600; color: oklch(0.45 0.18 255); padding: 8px 16px; border: 1px solid oklch(0.45 0.18 255 / 0.3); border-radius: 8px; } .ds-download-row:hover .ds-download-action { background: linear-gradient(to bottom right, oklch(0.45 0.18 255), oklch(0.42 0.14 160)); color: #fff; border-color: transparent; }"
+    },
+    {
+      "name": "Page Hero",
+      "kind": "custom",
+      "refersTo": "hero-page",
+      "description": "Inner page dark gradient hero with title and breadcrumbs.",
+      "html": "<header class=\"ds-page-hero\"><p class=\"ds-hero-eyebrow\">Established 2001 · Stock Broker No. 45</p><h1 class=\"ds-hero-title\">Downloads &amp; Forms</h1><p class=\"ds-hero-subtitle\">KYC, demat, and trade order forms.</p></header>",
+      "css": ".ds-page-hero { background: linear-gradient(to bottom right, oklch(0.15 0.03 265), oklch(0.32 0.15 255), oklch(0.15 0.03 265)); padding: 56px 24px; } .ds-hero-eyebrow { display: inline-block; margin-bottom: 12px; padding: 4px 12px; font-family: 'DM Sans', sans-serif; font-size: 11px; font-weight: 600; text-transform: uppercase; letter-spacing: 0.05em; color: oklch(0.99 0 0 / 0.7); border: 1px solid oklch(0.99 0 0 / 0.15); border-radius: 9999px; background: oklch(0.99 0 0 / 0.05); } .ds-hero-title { font-family: 'DM Sans', sans-serif; font-size: clamp(1.875rem, 4vw, 3rem); font-weight: 800; color: #fff; line-height: 1.2; } .ds-hero-subtitle { margin-top: 12px; max-width: 36rem; font-family: 'DM Sans', sans-serif; font-size: 16px; color: oklch(0.99 0 0 / 0.6); line-height: 1.6; }"
+    },
+    {
+      "name": "Nav Link",
+      "kind": "nav",
+      "refersTo": "link-nav",
+      "description": "SiteHeader top-level navigation item.",
+      "html": "<a class=\"ds-nav-link\" href=\"#\">Services</a>",
+      "css": ".ds-nav-link { font-family: 'DM Sans', sans-serif; font-size: 14px; font-weight: 600; color: oklch(0.15 0.03 265); text-decoration: none; padding: 10px 12px; border-radius: 8px; transition: color 0.2s, background 0.2s; } .ds-nav-link:hover { color: oklch(0.45 0.18 255); background: oklch(0.95 0.03 255); } .ds-nav-link:focus-visible { outline: 2px solid oklch(0.45 0.18 255); outline-offset: 2px; }"
+    }
+  ],
+  "narrative": {
+    "northStar": "The Clear Broker",
+    "overview": "Imperial Securities reads as a regulated institution that happens to be digital — not a startup trading app dressed in bank cosplay. The visual system is Committed on blue and green: institutional blue carries navigation, heroes, and trust; growth green carries primary conversion (Open Account). Surfaces stay clean white or cool gray-lt with tinted neutrals toward hue 255–265, never warm cream defaults.",
+    "keyCharacteristics": [
+      "OKLCH brand tokens in src/styles.css",
+      "DM Sans for headings and body",
+      "Green gradient primary CTA; blue outline secondary",
+      "Dark hero bands for page intros",
+      "Flat-at-rest; shadow on hover only",
+      "1280px content max; py-12 md:py-16 sections",
+      "WCAG AA contrast required"
+    ],
+    "rules": [
+      {
+        "name": "The Two-Voice Rule",
+        "body": "Blue speaks institution; green speaks action. Do not introduce purple, indigo, cyan, or orange as section accents.",
+        "section": "colors"
+      },
+      {
+        "name": "The Dark-Surface Text Rule",
+        "body": "On brand-dark or blue gradient backgrounds, body copy uses oklch(0.99 0 0 / 0.85) minimum — never text-white/55 for readable paragraphs.",
+        "section": "colors"
+      },
+      {
+        "name": "The Eyebrow Budget Rule",
+        "body": "Tiny uppercase tracked labels are legacy. New work: one kicker per page maximum.",
+        "section": "typography"
+      },
+      {
+        "name": "The Flat-By-Default Rule",
+        "body": "Surfaces at rest have no shadow. Elevation responds to hover, sticky headers, or primary CTAs only.",
+        "section": "elevation"
+      },
+      {
+        "name": "The No-Glass Rule",
+        "body": "backdrop-blur prohibited on content cards except mobile sticky nav scrim.",
+        "section": "elevation"
+      }
+    ],
+    "dos": [
+      "Do use OKLCH brand tokens from src/styles.css for all new color work.",
+      "Do use DM Sans for both headings and body copy.",
+      "Do lead regulated pages with license context in hero or first screen.",
+      "Do keep section padding at py-12 md:py-16 and container at max-w-[1280px] px-4 sm:px-6.",
+      "Do honor prefers-reduced-motion on all new animations.",
+      "Do use green gradient for the single primary CTA per viewport section."
+    ],
+    "donts": [
+      "Don't use generic AI template patterns: Inter/system fonts, purple-to-blue gradients, identical icon+card grids, gradient text, decorative glassmorphism, hero-metric stat blocks.",
+      "Don't use startup SaaS tells: bounce/elastic easing, excessive motion, pill badges everywhere, nested cards, gray muted text on tinted backgrounds below 4.5:1 contrast.",
+      "Don't use flashy fintech/crypto aesthetics: neon accents, terminal-dark UI, gamified elements.",
+      "Don't ship dated legacy broker UI: cluttered tables, tiny type, touch targets under 44px.",
+      "Don't add border-left or border-right greater than 1px as colored accents on callouts.",
+      "Don't put uppercase tracked eyebrows on every section.",
+      "Don't use numbered 01/02/03 markers unless the section is a genuine ordered sequence.",
+      "Don't introduce purple, indigo, or cyan accent colors outside the brand token set."
+    ]
+  }
+}

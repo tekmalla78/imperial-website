@@ -1,0 +1,826 @@
+{
+  "settings": {
+    "siteName": "Imperial Securities Company Limited",
+    "tagline": "Stock broking and wealth management — NEPSE member, CDSC depository participant",
+    "foundingYear": "2010",
+    "brokerNo": "45",
+    "phone": "01-5970145",
+    "phoneHref": "tel:015970145",
+    "email": "45.imperial@gmail.com",
+    "hours": "Sun–Thu 9:30 AM–6:00 PM · Fri 9:30 AM–5:00 PM",
+    "headOffice": "Kathmandu-29, Anamnagar, Hanumansthan, Kathmandu",
+    "registrationUrl": "https://ckyc.imperialsecurities.com.np/auth/type-selection",
+    "tmsUrl": "https://tms45.nepsetms.com.np",
+    "meroshareUrl": "https://meroshare.cdsc.com.np/",
+    "clientLoginUrl": "https://client45.cmt.com.np",
+    "noticeText": "Margin Trading Guidelines is here",
+    "noticeCta": "View Guidelines",
+    "noticeHref": "https://admin-dashboard.imperialsecurities.com.np/storage/final_m_t_f_guideline_imperial_2026-07-08_06-28-08.pdf",
+    "footerAbout": "We are a leading stock broking and wealth management firm, headquartered in Hanumansthan Anamnagar-29, Kathmandu. We operate on a unique retail focused stock trading model that provides revolutionary trading platforms and expertise to a diversified client base. Founded in 2010. Imperial Securities Company Limited is Member Of Nepal Stock Exchange (NEPSE), We are also registered as a Depository Participant with CDSC.",
+    "defaultTitle": "Imperial Securities Company Limited — Stock Broker No. 45 | NEPSE",
+    "defaultDescription": "Imperial Securities Company Limited is a NEPSE member and CDSC depository participant headquartered in Anamnagar, Kathmandu. Open Demat, TMS, and trading accounts with Broker No. 45."
+  },
+  "homepage": {
+    "kicker": "NEPSE Member · CDSC Depository Participant · Broker No. 45",
+    "title": "Welcome To Imperial Securities Company Limited",
+    "subtitle": "We are a leading stock broking and wealth management firm, headquartered in Hanumansthan Anamnagar-29, Kathmandu. We operate on a unique retail focused stock trading model that provides revolutionary trading platforms and expertise to a diversified client base. Founded in 2010. Imperial Securities Company Limited is Member Of Nepal Stock Exchange (NEPSE), We are also registered as a Depository Participant with CDSC.",
+    "ctaLabel": "Open Account",
+    "ctaHref": "https://ckyc.imperialsecurities.com.np/auth/type-selection",
+    "secondaryCtaLabel": "Contact Us",
+    "stats": "Broker | No. 45\nFounded | 2010\nOffices | 6 across Nepal\nHours | Sun–Thu 9:30AM–6PM",
+    "cards": "Stock Brokerage | Trade NEPSE-listed securities through Imperial TMS with published brokerage rates.\nMargin Trading | Buy eligible securities with 30% initial margin — facilities from NPR 10 lakh to 1 crore.\nDepository Participant | Open a BO/Demat account with CDSC through Imperial, including MeroShare access.\nApply Online | Register for TMS and Demat from the website — KYC, video verification, and payment online."
+  },
+  "pages": [
+    {
+      "id": "chairman-message",
+      "title": "Chairman's Message",
+      "slug": "chairman-message",
+      "subtitle": "A message from the Chairperson of the Board",
+      "personName": "Bhaktiram Ghimire",
+      "personRole": "Chairman",
+      "email": "sbrghimire@imperialsecurites.com.np",
+      "phone": "01-5970145",
+      "linkedin": "",
+      "seoTitle": "Chairman's Message — Imperial Securities Company Limited",
+      "seoDescription": "A message from Chairman Bhaktiram Ghimire of Imperial Securities Company Limited.",
+      "body": "Dear Valued Investors,\n\nWarm greetings from Imperial Securities Company Ltd. On behalf of our team, I'm thrilled to connect with a wider audience through our updated website. While we've consistently strived to keep our esteemed customers informed across various channels, this fresh endeavor marks a significant milestone in our commitment to you.\n\nEstablished in 2011, Imperial Securities Company Ltd. stands as a prominent stockbroking firm and wealth management entity headquartered in the prime location of Anamnagar, Kathmandu. Our unique retail-focused stock trading model, providing revolutionary platforms and expertise, caters to a diverse clientele. As proud members of the Nepal Stock Exchange Limited (NEPSE) and registered Depository Participant (DP) with CDS and Clearing Limited (CDSC), we aim to secure a lasting reputation and trust among our existing and potential clients in the stock broking business arena.\n\nInvesting in the stock market has proven highly lucrative, even in markets like Nepal's. However, we acknowledge the stress investors might face due to a lack of timely and proper intermediary services. Hence, our aim is to shoulder the best responsibility towards stakeholders, ensuring our clients receive assured professional services promptly.\n\nWe envision ourselves as a family of honest, loyal, and dedicated professionals, leveraging technology, innovation, and a personal touch to ensure high member satisfaction and goodwill. Understanding that the progress and prosperity of our investors are the keys to our success, we've embarked on a journey to bring the best national and international practices and technologies to Nepal, benefiting all stakeholders collectively. Our recent memberships in the Association of National Numbering Agencies (ANNA) and the International Organization of Securities Commissions (IOSCO) signify recognition for Nepalese stock markets in the international arena, providing us with expanded opportunities ahead.\n\nImperial Securities embodies core values such as proficiency, innovation, and a relentless commitment to serving our customers and stakeholders. As the Chairperson of the Board, it's my privilege to lead this distinguished stock broking company. We take pride in being among the top five most trusted stock broking companies in Nepal and aspire to ascend as the market leader in the near future. Our clients, partners, and shareholders are our true assets, and I extend heartfelt gratitude to the Ministry of Finance, the Office of the Company Registrar, SEBON, Nepal Rastra Bank, NEPSE, CDSC, our auditors, legal advisors, and all other entities for their unwavering guidance, support, and contributions on our journey thus far. A special mention to our dedicated staff for their invaluable contributions.\n\nTogether, let's strive for eminent success through our unwavering joint efforts in the days to come."
+    },
+    {
+      "id": "about",
+      "title": "About Us",
+      "slug": "about",
+      "subtitle": "Founded in 2010 · NEPSE member · CDSC depository participant",
+      "seoTitle": "About Us — Imperial Securities Company Limited",
+      "seoDescription": "We are a leading stock broking and wealth management firm, headquartered in Hanumansthan Anamnagar-29, Kathmandu. We operate on a unique retail focused stock tr",
+      "body": "We are a leading stock broking and wealth management firm, headquartered in Hanumansthan Anamnagar-29, Kathmandu. We operate on a unique retail focused stock trading model that provides revolutionary trading platforms and expertise to a diversified client base. Founded in 2010. Imperial Securities Company Limited is Member Of Nepal Stock Exchange (NEPSE), We are also registered as a Depository Participant with CDSC.\n\nImperial Securities Company Limited trust with excellence in customer relations began in 2010. Today, Imperial has emerged as one of the most respected stock broking and Wealth Management Companies in NEPAL.With its unique retail focused stock trading business model, Imperial is committed to providing ‘Real Value for Money’ to all its clients.\n\nMission\nOur goal is to provide the best quality service to have complete harmony between quality in process and continuous improvement to deliver exceptional service to delight our clients thereby contributing to the capital market of the country and create excellent market growth opportunity for our employees.\n\nVision\nTo provide best value for money to investors through innovative products, trading/investment strategies, state-of- the-art technology and personalized services.\n\nValues\nTo have complete harmony between quality in process and continuous improvement to deliver exceptional service that will delight our Customers and Clients. Our Motto Is “Guides Towards Prosperity"
+    },
+    {
+      "id": "support",
+      "title": "Support",
+      "slug": "support",
+      "subtitle": "Help with Demat, TMS, MeroShare, and branch services",
+      "seoTitle": "Support — Imperial Securities Company Limited",
+      "seoDescription": "Contact Imperial Securities Company Limited for Demat, TMS, MeroShare, and branch support.",
+      "body": "Call 01-5970145 or email 45.imperial@gmail.com. Office hours are Sunday to Thursday 9:30 AM–6:00 PM and Friday 9:30 AM–5:00 PM. Head office: Kathmandu-29, Anamnagar, Hanumansthan."
+    }
+  ],
+  "services": [
+    {
+      "slug": "stock-brokerage",
+      "title": "Stock Brokerage",
+      "subtitle": "We are top licensed brokerage firm providing services since 2012, issued by SEBON (Securities Board of Nepal) and the member of NEPSE (Nepal Stock Exchange limited)\n- We offer our clients the best brokerage services. \n- We work with clients to place orders to buy or sell stocks, and we also carry out these orders in the financial markets on their behalf.\n- We offer clients an online trading platform with real-time ma",
+      "description": "Required Documents for Opening TMS Account \nFor Individual \n- Client Registration Form (KYC)\n- Online Agreement form\n- A copy of Citizenship\n- Recent passport size photo\n- Id card in case of student or job holder\n\nFor Minor \n- Client Registration Form (KYC)\n- Online Agreement form\n- Birth-Registration Certificate\n- Recent passport size photo of guardian and minor\n- Citizenship copy of guardian\n\nFor Institutions \n- Corporate TMS account opening form.\n- Online Agreement form.\n- Company registration certificate and PAN certificate.\n- Recent tax clearance certificate.\n- Board minute with decision to open the TMS account.\n- Memorandum of Association (MOA).\n- Articles of Association (AOA).\n- Copy of citizenship certificate of shareholders holding 10%, above shares and Account operator.\n- Recent passport size photo of Managing Director/CEO/Account operator.\n- Demat Number.\n- Bank account details.\n\nFees & Commissions \n\nFor Equity Shares \nS.no.\nTransaction Amount\nCommission*\n\n1\nRs. 50,000 or less\n0.36% or Rs. 10 whichever is higher\n\n2\nRs. 50,001 to Rs. 500,000\n0.33%\n\n3\nRs. 500,001 to Rs. 2,000,000\n0.31%\n\n4\nRs. 2,000,001 to Rs. 10,000,000\n0.27%\n\n5\nAbove Rs. 10,000,000\n0.24%\n\n- Total commission comprises of 79.4% broker commission, 20% exchange commission (NEPSE) and 0.6% regulatory fee (SEBON)\n- An additional 0.015% SEBON transaction is applicable on the transaction amount.\n- Additional Rs. 25 per stock per transfer day is applicable as DP transaction charge to be paid to DP\n\nFor bonds issued by GoN, NRB and Government Agencies (fully guaranteed by GoN or fully secured) and Corporate Bonds/Debentures \nS.no.\nTransaction Amount\nCommission*\n\n1\nRs. 500,000 or less\n0.10% or Rs. 10 whichever is higher\n\n2\nRs. 500,001 to Rs. 5,000,000\n0.05%\n\n3\nAbove Rs. 5,000,000\n0.02%\n\n- Total commission comprises of 79.4% broker commission, 20% exchange commission (NEPSE) and 0.6% regulatory fee (SEBON)\n- An additional 0.010% on corporate debenture and 0.005% on other securities as SEBON transaction fee is applicable on the transaction amount.\n- Additional Rs. 25 per stock per transfer day is applicable as DP transaction charge to be paid to DP.\n\nFor Securities other than mentioned above, Closed-end fund or mutual fund units and Other Securities \nS.no.\nTransaction Amount\nCommission*\n\n1\nRs. 500,000 or less\n0.15% or Rs. 10 whichever is higher\n\n2\nRs. 500,001 to Rs. 5,000,000\n0.12%\n\n3\nAbove Rs. 5,000,000\n0.10%\n\n- Total commission comprises of 79.4% broker commission, 20% exchange commission (NEPSE) and 0.6% regulatory fee (SEBON)\n- An additional 0.010% SEBON transaction fee is applicable on the transaction amount.\n- Additional Rs. 25 per stock per transfer day is applicable as DP transaction charge to be paid to DP .",
+      "features": "NEPSE member broker | Execute buy and sell orders on the Nepal Stock Exchange through Imperial TMS.\nPublished tariff | Equity commission follows the SEBON-approved scale from 0.36% (or Rs 10) down to 0.24%.\nOnline registration | TMS account opening with KYC, online agreement, citizenship, photos, PAN, and bank details.\nIndividuals, minors & institutions | Separate document checklists for each account type, including corporate board minutes.",
+      "benefits": "SEBON licensed Broker No. 45\nMember of Nepal Stock Exchange\nOnline TMS registration\nTransparent equity commission scale\nSupport for individual, minor, and institutional accounts",
+      "seoTitle": "Stock Brokerage — Imperial Securities Company Limited",
+      "seoDescription": "We are top licensed brokerage firm providing services since 2012, issued by SEBON (Securities Board of Nepal) and the member of NEPSE (Nepal Stock Exchange limi"
+    },
+    {
+      "slug": "margin-trading",
+      "title": "Margin Trading",
+      "subtitle": "Imperial Securities Company Limited is pleased to introduce its Margin Trading Facility , a smart way to enhance your trading power by leveraging your securities. With flexible terms and competitive rates, this facility is designed to help investors size more opportunities in the capital market.. Under this facility, investors can purchase eligible securities by contributing only 30% of the investment amount , while ",
+      "description": "Key Parameters & Terms \nMargin Trading Facility \n10 Lakh \n20 Lakh \n25 Lakh \n50 Lakh \n1 Crore \n\nInitial Margin (30%)\n3,00,000\n6,00,000\n7,50,000\n15,00,000\n30,00,000\n\nLoan Amount (70%)\n7,00,000\n14,00,000\n17,50,000\n35,00,000\n70,00,000\n\nInterest & Service Fee \nPer Month \n6,300\n12,600\n15,750\n31,500\n63,000\n\nDuration\n1 / 3 / 6 Months\n\nParameter \nSpecification / Term Details \n\nMaximum Loan Amount \nUp to NPR 1 Crore\n\nLoan Tenures Available \nFlexible terms of 1, 3, or 6 Months\n\nInterest Rate & Service Fee \n0.9% per month payable upfront and non-refundable\n\nInitial Margin Requirement \n30% of the Margin Trading Facility value\n\nMaintenance Margin \nMinimum 20% must be maintained throughout the tenure\n\nEligible Securities \nScripts listed under the approved companies for margin trading by NEPSE\" Click here for Margin Trading Securities \"\n\nRequired Documents For Margin Trading \n1.Three (3) recent passport-size photographs\n2.Copy of Citizenship Certificate or National ID Card (NID)\n3.PAN Card\n4.Credit Information Center (CIC) Verification Report { Click here for CIC Self Declaration Form }",
+      "features": "30% initial margin | Contribute 30% of the facility value; Imperial finances the remaining 70%.\nFacilities from 10 lakh to 1 crore | Fixed facility sizes with published monthly interest and service fees.\nTenure 1 / 3 / 6 months | Interest and service fee of 0.9% per month, payable upfront and non-refundable.\nMaintenance margin 20% | Eligible NEPSE scripts as published for margin trading; CIC report required.",
+      "benefits": "Initial margin 30%\nLoan amount up to NPR 1 crore\nPublished monthly fees\nSEBON margin guidelines available as PDF\nRequired documents listed on the service page",
+      "seoTitle": "Margin Trading — Imperial Securities Company Limited",
+      "seoDescription": "Imperial Securities Company Limited is pleased to introduce its Margin Trading Facility , a smart way to enhance your trading power by leveraging your securitie"
+    },
+    {
+      "slug": "depository-services",
+      "title": "Depository Participant",
+      "subtitle": "Imperial securities licensed Depository Participant (DP) from CDS & Clearing Limited. We act as intermediaries between CDSC and the valued investors who hold demat account with us. we facilitate our clients to open Beneficiary Owner (BO) Account to deposit all their share certificates in paperless and hassle-free format. This eliminates the risk associated with holding paper-based shares. We provide entire range of d",
+      "description": "Required Documents for Opening Demat Account: \n\nFor Individual \n- Demat account form\n- Meroshare form\n- Citizenship\n- Recent passport size photo\n- Bank account details of beneficial owner\n\nFor Minor ( Below 18 years) \n- Demat account form\n- Meroshare form\n- Recent passport size photo of guardian and minor\n- Birth-Registration Certificate\n- Citizenship of guardian\n- Bank account details of Minor\n\nFor Institutions \n- Corporate demat account opening form\n- Meroshare form\n- Company registration certificate and PAN certificate\n- Recent tax clearance certificate\n- Board minute with decision to open the Demat account\n- Memorandum of Association (MOA)\n- Articles of Association (AOA)\n- Copy of citizenship certificate of shareholders holding 10%, above shares and Account operator\n- Recent passport size photo of Managing Director/CEO/Account operator\n- Bank account details\n\nDepository Participant (DP) Fees \n\nAccount Operation, Normal Transactions, and Others \nS.no.\nParticulars\nFee*\n\n1\nAccount Opening (BO)\nRs. 50 (onetime fee)\n\n2\nAnnual Maintenance Charge (BO)\nRs. 100 annually\n\n3\nPledge\nRs. 50 per stock\n\n4\nAccount Freeze\nRs. 25\n\n5\nOn market transaction\nRs. 25 per BO per stock per settlement ID**\n\n6\nRematerialization\nRs. 50 per stock\n\n7\nOnline account access (Mero Share)\nRs. 50 annually\n\n8\nDematerialization\nFree\n\n9\nStatements\nFree\n\n- Total fee comprises of 85% Depository Participant fee, 10% CDS and Clearing Ltd. fee and 5% SEBON fee except for On Market Transactions.\n- Total fee comprises of 75% Depository Participant fee, 10% CDS and Clearing Ltd. fee and 5% SEBON fee.\n\nTransfer to other family members \n\nS.no.\nPaid up value of securities\nFee*\n\n1\nRs.100,000 or less\n0.50% or Rs. 25 whichever is higher\n\n2\nRs. 100,001 to Rs. 500,000\n0.20% or or Rs. 500 whichever is higher\n\n3\nRs. 500,001 to Rs. 1,000,000\n0.15% or or Rs. 1000 whichever is higher\n\n3\nAbove Rs. 1,000,000\n0.10% or or Rs. 1500 whichever is higher\n\n- 2% of total paid-up value of securities to be transferred or Rs. 200 whichever is higher.\n- Total fee comprises of 40% Depository Participant (DP) fee and 60% CDS and clearing Ltd. fee.",
+      "features": "CDSC Depository Participant | Open a Beneficiary Owner (BO) account and hold shares in demat form.\nMeroShare | Register MeroShare with your Demat account for IPOs, holdings, and EDIS.\nIndividual, minor & institution | Document checklists for each account type.\nPublished DP fees | Account opening Rs 50; annual maintenance Rs 100; on-market Rs 25 per BO per stock per settlement.",
+      "benefits": "CDSC-linked Demat / BO account\nMeroShare access\nPaperless share holding\nPublished DP tariff\nOnline Demat registration from the website",
+      "seoTitle": "Depository Participant — Imperial Securities Company Limited",
+      "seoDescription": "Imperial securities licensed Depository Participant (DP) from CDS & Clearing Limited. We act as intermediaries between CDSC and the valued investors who hold de"
+    },
+    {
+      "slug": "ipo-fpo",
+      "title": "IPO / FPO Application",
+      "subtitle": "Apply for public offerings through MeroShare once your Demat and bank accounts are linked.",
+      "description": "Imperial is a CDSC depository participant. Investors with a Demat and MeroShare account can apply for IPOs and FPOs through meroshare.cdsc.com.np. Our branches and customer service team can help with account opening and application issues during issue windows.",
+      "features": "MeroShare applications | Apply online once Demat, bank, and MeroShare are active.\nDemat credit | Allotted shares are credited to your BO account.\nBranch help | Walk-in support at Anamnagar and other offices.\nPublished FAQs | See the FAQ page for IPO basics and minimum investment.",
+      "benefits": "Apply via MeroShare\nAllotment to your Demat\nFAQs covering IPO basics\nCustomer service at 01-5970145",
+      "seoTitle": "IPO / FPO — Imperial Securities Company Limited",
+      "seoDescription": "Apply for IPOs and FPOs through MeroShare with a Demat account at Imperial Securities, Broker No. 45."
+    },
+    {
+      "slug": "portfolio-management",
+      "title": "Portfolio & Account Support",
+      "subtitle": "Review holdings, settlements, and account servicing with our trading, DP, and accounts teams.",
+      "description": "Imperial's published contacts include Trading, DP, Accounts, KYC, and Customer Service desks at head office. Visit a branch or call 01-5970145 (ask for the relevant extension) for statements, EDIS, pledges, and account updates.",
+      "features": "Trading desk | Order and settlement queries with the Trading Department.\nDP desk | Demat, pledge, freeze, and transfer support.\nAccounts | Payments, charges, and bank details.\nKYC updates | PAN, NID, and KYC document changes.",
+      "benefits": "Named department contacts\nSix branch offices\nPublished office hours\nEDIS assistance",
+      "seoTitle": "Account Support — Imperial Securities Company Limited",
+      "seoDescription": "Portfolio and account support from Imperial Securities desks for trading, Demat, KYC, and settlements."
+    },
+    {
+      "slug": "research-advisory",
+      "title": "News & Market Notes",
+      "subtitle": "Company notices and published articles on Nepal's capital market.",
+      "description": "Imperial publishes news and notices on its website, including operational guides (such as EDIS in MeroShare) and longer articles on NEPSE and mutual funds. These are educational notes, not personalised investment advice.",
+      "features": "News and notices | Operational updates such as dematerialisation lists and process guides.\nPublished articles | Longer-form notes on NEPSE and mutual funds.\nNot personal advice | Articles are for general information.\nAsk the desk | Trading and customer service can help with process questions.",
+      "benefits": "EDIS how-to guide\nMarket articles on the news page\nProcess support from branches",
+      "seoTitle": "News & Notes — Imperial Securities Company Limited",
+      "seoDescription": "News, notices, and market notes published by Imperial Securities Company Limited."
+    }
+  ],
+  "branches": [
+    {
+      "slug": "kathmandu",
+      "name": "Head Office (Kathmandu)",
+      "city": "Kathmandu",
+      "addr": "Kathmandu-29, Anamnagar, Hanumansthan, Kathmandu",
+      "phone": "01-5970145",
+      "email": "45.imperial@gmail.com",
+      "hours": "Sun–Thu 9:30 AM–6:00 PM · Fri 9:30 AM–5:00 PM",
+      "mapsQuery": "Imperial+Securities+Hanumansthan+Anamnagar+Kathmandu",
+      "description": "Head office of Imperial Securities Company Limited, serving as NEPSE member broker and CDSC depository participant.",
+      "manager": "Bhaktiram Ghimire",
+      "established": "2010"
+    },
+    {
+      "slug": "nepalgunj",
+      "name": "Nepalgunj",
+      "city": "Nepalgunj",
+      "addr": "HICOLA Building, Nepalgunj-1, Dhamboji Chok, Nepalgunj, Banke",
+      "phone": "081-534932",
+      "email": "npj@imperialsecurities.com.np",
+      "hours": "Sun–Thu 9:30 AM–6:00 PM · Fri 9:30 AM–5:00 PM",
+      "mapsQuery": "Imperial+Securities+Nepalgunj+Broker+45",
+      "description": "Nepalgunj branch of Imperial Securities Company Limited (Broker No. 45).",
+      "manager": "Uday Raj Adhikari",
+      "established": ""
+    },
+    {
+      "slug": "surkhet",
+      "name": "Surkhet",
+      "city": "Surkhet",
+      "addr": "Birendranagar-6, Jumla Road, Surkhet",
+      "phone": "083-590906",
+      "email": "Surkhet@imperialsecurities.com.np",
+      "hours": "Sun–Thu 9:30 AM–6:00 PM · Fri 9:30 AM–5:00 PM",
+      "mapsQuery": "Imperial+Securities+Jumla+Road+Surkhet",
+      "description": "Surkhet branch on Jumla Road, Birendranagar.",
+      "manager": "Kabita Adhikari",
+      "established": ""
+    },
+    {
+      "slug": "bhaktapur",
+      "name": "Suryabinayak",
+      "city": "Bhaktapur",
+      "addr": "Suryabinayak chok -06, Bhaktapur (Opposite Nepal Investment Mega Bank, Seepadole)",
+      "phone": "01-5917985",
+      "email": "45.imperial@gmail.com",
+      "hours": "Sun–Thu 9:30 AM–6:00 PM · Fri 9:30 AM–5:00 PM",
+      "mapsQuery": "Imperial+securities+bhaktapur+branch+45",
+      "description": "Suryabinayak (Bhaktapur) branch of Imperial Securities Company Limited.",
+      "manager": "Madhab Khanal",
+      "established": ""
+    },
+    {
+      "slug": "dhading",
+      "name": "Dhading",
+      "city": "Dhading",
+      "addr": "Nilkantha-03, Bichbazar, Dhading",
+      "phone": "010-590200",
+      "email": "Dhading@imperialsecurities.com.np",
+      "hours": "Sun–Thu 9:30 AM–6:00 PM · Fri 9:30 AM–5:00 PM",
+      "mapsQuery": "Nilkantha-03+Bichbazar+Dhading",
+      "description": "Dhading branch at Nilkantha-03, Bichbazar.",
+      "manager": "Sujan Sapkota",
+      "established": ""
+    },
+    {
+      "slug": "pokhara",
+      "name": "Pokhara",
+      "city": "Pokhara",
+      "addr": "Pokhara-07, Rastra Bank Chowk, Kaski",
+      "phone": "061-579000",
+      "email": "45.imperial@gmail.com",
+      "hours": "Sun–Thu 9:30 AM–6:00 PM · Fri 9:30 AM–5:00 PM",
+      "mapsQuery": "Imperial+Securities+Pokhara+Rastra+Bank+Chowk",
+      "description": "Pokhara branch at Rastra Bank Chowk.",
+      "manager": "",
+      "established": ""
+    }
+  ],
+  "faqs": [
+    {
+      "id": "faq-1",
+      "question": "How to open a DEMAT and Meroshare account with Imperial Securities?",
+      "answer": "Step 1: Visit Our Website \nGo to our official website: \n👉 https://imperialsecurities.com.np \n\nStep 2: Apply Online \nFrom the top navigation bar, click on “Apply Online” and select the DEMAT option.\n\nStep 3: Complete the Online Form \nFill in all required details accurately and upload the necessary documents as instructed.\n\nStep 4: Make Payment \nPay the DEMAT account opening charge of NPR 200 via eSewa or Khalti . \n✔️ The DEMAT account is valid for 1 year .\n\nStep 5: Video Verification Scheduling \nAfter submitting the form, book a convenient date for video verification . Our team will call you on the scheduled date to complete the verification process.\n\nStep 6: Submit Your Application \nReview your information and click Submit to complete the application process.",
+      "category": "Account & Registration",
+      "order": "1"
+    },
+    {
+      "id": "faq-2",
+      "question": "How much time does it take to open a DEMAT account ?",
+      "answer": "Once your application, payment, and video verification are completed, our team will verify your details and activate your DEMAT and MeroShare accounts . You will get email notification on same day.",
+      "category": "Account & Registration",
+      "order": "2"
+    },
+    {
+      "id": "faq-3",
+      "question": "What is a DEMAT account?",
+      "answer": "It is an electronic account where your shares are stored digitally.",
+      "category": "Account & Registration",
+      "order": "3"
+    },
+    {
+      "id": "faq-4",
+      "question": "Is PAN mandatory?",
+      "answer": "PAN is mandatory for investors whose total share transaction exceeds NPR 5 lakh.",
+      "category": "Account & Registration",
+      "order": "4"
+    },
+    {
+      "id": "faq-5",
+      "question": "What is a broker account (Trading Account)?",
+      "answer": "A broker account, also known as a trading account, is an account opened with a stock broker like Imperial Securities Company Limited that allows you to buy and sell shares on the Nepal Stock Exchange.",
+      "category": "Account & Registration",
+      "order": "5"
+    },
+    {
+      "id": "faq-6",
+      "question": "How can I open a broker account (Trading Account)?",
+      "answer": "You can open a trading account with Imperial Securities Company Limited in two easy ways:\n\n🌐 Online Method:\n\n- Visit our official website\n\n- Click on “Apply” \n\n- Select “TMS Registration” \n\n- A new page will appear where you can view the required documents \n\n- Click on “Click Here to Register” \n\n- Fill out the online form and submit your application\n\n🏢 Offline Method:\n\nOr, you can visit our office with the required documents and our team will assist you in opening your account manually.",
+      "category": "Account & Registration",
+      "order": "6"
+    },
+    {
+      "id": "faq-7",
+      "question": "What is a stock broker?",
+      "answer": "A stock broker is a licensed intermediary who executes buy/sell orders on the Nepal Stock Exchange on behalf of investors.",
+      "category": "Trading",
+      "order": "7"
+    },
+    {
+      "id": "faq-8",
+      "question": "Is the stock market regulated in Nepal?",
+      "answer": "Yes, it is regulated by the Securities Board of Nepal.",
+      "category": "Support & Services",
+      "order": "8"
+    },
+    {
+      "id": "faq-9",
+      "question": "What are brokerage charges?",
+      "answer": "Charges vary based on transaction size as per NEPSE guidelines. Click here to know the charges",
+      "category": "Trading",
+      "order": "9"
+    },
+    {
+      "id": "faq-10",
+      "question": "What is IPO?",
+      "answer": "IPO (Initial Public Offering) is when a company offers shares to the public for the first time.",
+      "category": "IPO & Rights Shares",
+      "order": "10"
+    },
+    {
+      "id": "faq-11",
+      "question": "What is the minimum amount to invest?",
+      "answer": "You can start with as low as NPR 1,000 depending on share price.",
+      "category": "Trading",
+      "order": "11"
+    },
+    {
+      "id": "faq-12",
+      "question": "What is secondary market trading?",
+      "answer": "Buying and selling shares after they are listed on NEPSE.",
+      "category": "Trading",
+      "order": "12"
+    },
+    {
+      "id": "faq-13",
+      "question": "Is stock market investment risky?",
+      "answer": "Yes, prices fluctuate based on market conditions, company performance, and economic factors.",
+      "category": "Trading",
+      "order": "13"
+    },
+    {
+      "id": "faq-14",
+      "question": "How do I choose good stocks?",
+      "answer": "Choosing good stocks requires a combination of fundamental analysis, market understanding, Techincal analyisi and patience .",
+      "category": "Trading",
+      "order": "14"
+    },
+    {
+      "id": "faq-15",
+      "question": "What is Margin Trading?",
+      "answer": "Margin trading is a facility where investors can buy shares by paying only a part of the total amount , while the remaining amount is financed by the broker.\n\nIf you want to buy shares worth NPR 1,00,000:\n\n- You may pay only NPR 30,000 (initial margin)\n\n- The broker finances the remaining NPR 70,000",
+      "category": "Support & Services",
+      "order": "15"
+    },
+    {
+      "id": "faq-16",
+      "question": "How long does it take to settle a trade?",
+      "answer": "Settlement is typically completed within T+2 days (2 working days after trade).",
+      "category": "Trading",
+      "order": "16"
+    },
+    {
+      "id": "faq-17",
+      "question": "When do I receive money after selling shares?",
+      "answer": "Funds are usually credited within 2–3 working days.",
+      "category": "Trading",
+      "order": "17"
+    }
+  ],
+  "downloads": [
+    {
+      "id": "individual-client-registration-form-kyc",
+      "title": "Individual Client Registration Form (Kyc)",
+      "group": "New Account Registration",
+      "groupDescription": "Open a trading and Demat account with Imperial Securities.",
+      "file": "https://admin-dashboard.imperialsecurities.com.np/storage/new_k_y_c_form_imperial_2025-09-01_06-00-14.pdf"
+    },
+    {
+      "id": "individual-demat-registration-form",
+      "title": "Individual Demat Registration Form",
+      "group": "New Account Registration",
+      "groupDescription": "Open a trading and Demat account with Imperial Securities.",
+      "file": "https://admin-dashboard.imperialsecurities.com.np/storage/demat_form_imperial_2024-11-13_07-28-06_imperial_2026-03-09_10-20-48.pdf"
+    },
+    {
+      "id": "mero-share-form",
+      "title": "Mero Share Form",
+      "group": "New Account Registration",
+      "groupDescription": "Open a trading and Demat account with Imperial Securities.",
+      "file": "https://admin-dashboard.imperialsecurities.com.np/storage/mero_share_form_compressed_imperial_2023-12-12_05-26-44.pdf"
+    },
+    {
+      "id": "online-agreement-form",
+      "title": "Online Agreement Form",
+      "group": "New Account Registration",
+      "groupDescription": "Open a trading and Demat account with Imperial Securities.",
+      "file": "https://admin-dashboard.imperialsecurities.com.np/storage/agrement-45-_final_imperial_2025-09-01_06-00-47.pdf"
+    },
+    {
+      "id": "dis-slip",
+      "title": "Dis Slip",
+      "group": "Other Forms",
+      "groupDescription": "Dematerialisation, order slips, margin, and CIC forms.",
+      "file": "https://admin-dashboard.imperialsecurities.com.np/storage/d-_i-_s_s_l_i_p(1)_imperial_2025-02-21_06-20-45.pdf"
+    },
+    {
+      "id": "drf-form",
+      "title": "Drf Form",
+      "group": "Other Forms",
+      "groupDescription": "Dematerialisation, order slips, margin, and CIC forms.",
+      "file": "https://admin-dashboard.imperialsecurities.com.np/storage/demat_application_form(_d_r_f)_imperial_2023-12-08_06-37-46.pdf"
+    },
+    {
+      "id": "institutional-demat-form",
+      "title": "Institutional Demat Form",
+      "group": "Institutional Forms",
+      "groupDescription": "For companies and other institutions.",
+      "file": "https://admin-dashboard.imperialsecurities.com.np/storage/company_demat_imperial_2025-05-06_04-52-08.pdf"
+    },
+    {
+      "id": "institutional-kyc",
+      "title": "Institutional Kyc",
+      "group": "Institutional Forms",
+      "groupDescription": "For companies and other institutions.",
+      "file": "https://admin-dashboard.imperialsecurities.com.np/storage/details-of-_company-_annex-13-_imperal(3)_imperial_2026-07-09_04-09-41.pdf"
+    },
+    {
+      "id": "in-person-verification-form",
+      "title": "In-person verification form",
+      "group": "New Account Registration",
+      "groupDescription": "Open a trading and Demat account with Imperial Securities.",
+      "file": "https://admin-dashboard.imperialsecurities.com.np/storage/in-persion_verification_form_imperial_2024-05-26_09-41-37.pdf"
+    },
+    {
+      "id": "buy-sell-order-slip",
+      "title": "Buy/Sell order Slip",
+      "group": "Other Forms",
+      "groupDescription": "Dematerialisation, order slips, margin, and CIC forms.",
+      "file": "https://admin-dashboard.imperialsecurities.com.np/storage/i_m_g_20240602_0001_imperial_2024-06-02_06-42-34.pdf"
+    },
+    {
+      "id": "margin-trading-guideline",
+      "title": "Margin Trading guideline",
+      "group": "Other Forms",
+      "groupDescription": "Dematerialisation, order slips, margin, and CIC forms.",
+      "file": "https://admin-dashboard.imperialsecurities.com.np/storage/final_m_t_f_guideline_imperial_2026-07-08_06-28-08.pdf"
+    },
+    {
+      "id": "cic-self-declaration-form",
+      "title": "CIC Self Declaration Form",
+      "group": "Other Forms",
+      "groupDescription": "Dematerialisation, order slips, margin, and CIC forms.",
+      "file": "https://admin-dashboard.imperialsecurities.com.np/storage/c_i_c_self__d_e_c_l_e_r_a_t_i_o_n_form_imperial_2026-08-03_10-25-39.pdf"
+    }
+  ],
+  "team": [
+    {
+      "id": "bhaktiram-ghimire",
+      "name": "Bhaktiram Ghimire",
+      "role": "Managing Director",
+      "dept": "Executive",
+      "group": "management",
+      "desc": "Mr. Bhaktiram Ghimire, an esteemed finance expert with a Tribhuvan University MBA, boasts 20+ years in the capital market. As a revered professor, he adeptly navigates financial complexities, earning acclaim as a stalwart in finance.",
+      "email": "sbrghimire@gmail.com",
+      "phone": "",
+      "linkedin": "https://www.facebook.com/santosh.ghimire.5811"
+    },
+    {
+      "id": "sita-ram-adhikari",
+      "name": "Sita Ram Adhikari",
+      "role": "Asst-Managing Director",
+      "dept": "Executive",
+      "group": "management",
+      "desc": "Sitaram Adhikari, a finance luminary, excels with two decades in stock brokerage post his prestigious MBA from Tribhuvan University. His climb epitomizes dedication, analytical acumen, and leadership, inspiring emerging professionals beyond the stock market.",
+      "email": "sitaram.adhikari@imperialsecurities.com.np",
+      "phone": "",
+      "linkedin": "https://www.facebook.com/sitaram1"
+    },
+    {
+      "id": "lekhnath-paudel",
+      "name": "Lekhnath Paudel",
+      "role": "Sr.Officer",
+      "dept": "Trading Department",
+      "group": "management",
+      "desc": "",
+      "email": "lekhnath.paudel@imperialsecurities.com.np",
+      "phone": "",
+      "linkedin": ""
+    },
+    {
+      "id": "bimal-awal",
+      "name": "Bimal Awal",
+      "role": "Sr.Officer",
+      "dept": "Account Department",
+      "group": "management",
+      "desc": "",
+      "email": "bimal.awal@imperialsecurities.com.np",
+      "phone": "",
+      "linkedin": ""
+    },
+    {
+      "id": "uday-raj-adhikari",
+      "name": "Uday Raj Adhikari",
+      "role": "Branch Head (Nepalgunj)",
+      "dept": "Branch Head",
+      "group": "management",
+      "desc": "",
+      "email": "npj@imperialsecurities.com.np",
+      "phone": "",
+      "linkedin": ""
+    },
+    {
+      "id": "madhab-khanal",
+      "name": "Madhab Khanal",
+      "role": "Branch Head(Bhaktapur)",
+      "dept": "Branch Head",
+      "group": "management",
+      "desc": "",
+      "email": "bkt@imperialsecurities.com.np",
+      "phone": "",
+      "linkedin": "https://www.facebook.com/imperial45"
+    },
+    {
+      "id": "kabita-adhikari",
+      "name": "Kabita Adhikari",
+      "role": "Branch Head (Surkhet)",
+      "dept": "Branch Head",
+      "group": "management",
+      "desc": "",
+      "email": "kabita.adhikari@imperialsecurities.com.np",
+      "phone": "",
+      "linkedin": ""
+    },
+    {
+      "id": "sujan-sapkota",
+      "name": "Sujan Sapkota",
+      "role": "Branch Head (Dhading)",
+      "dept": "Branch Head",
+      "group": "management",
+      "desc": "",
+      "email": "",
+      "phone": "",
+      "linkedin": ""
+    },
+    {
+      "id": "tek-malla",
+      "name": "Tek Malla",
+      "role": "Officer",
+      "dept": "Trading Department",
+      "group": "staff",
+      "desc": "",
+      "email": "tek.malla@imperialsecurities.com.np",
+      "phone": "",
+      "linkedin": ""
+    },
+    {
+      "id": "nischal-neupane",
+      "name": "Nischal Neupane",
+      "role": "Sr. Assistant",
+      "dept": "Trading Department",
+      "group": "staff",
+      "desc": "",
+      "email": "Trading@imperialsecurities.com.np",
+      "phone": "",
+      "linkedin": ""
+    },
+    {
+      "id": "sushma-pathak",
+      "name": "Sushma Pathak",
+      "role": "Officer",
+      "dept": "Account Department",
+      "group": "staff",
+      "desc": "",
+      "email": "account@imperialsecurities.com.np",
+      "phone": "",
+      "linkedin": ""
+    },
+    {
+      "id": "manisha-adhikari",
+      "name": "Manisha Adhikari",
+      "role": "Assistant",
+      "dept": "Account Department",
+      "group": "staff",
+      "desc": "",
+      "email": "account@imperialsecurities.com.np",
+      "phone": "",
+      "linkedin": ""
+    },
+    {
+      "id": "sanjeev-thakuri",
+      "name": "Sanjeev Thakuri",
+      "role": "Assistant",
+      "dept": "Account Department",
+      "group": "staff",
+      "desc": "",
+      "email": "kyc@imperialsecurities.com.np",
+      "phone": "",
+      "linkedin": ""
+    },
+    {
+      "id": "arjun-baral",
+      "name": "Arjun Baral",
+      "role": "Officer",
+      "dept": "Dp Department",
+      "group": "staff",
+      "desc": "",
+      "email": "arjun.baral@imperialsecurities.com.np",
+      "phone": "",
+      "linkedin": ""
+    },
+    {
+      "id": "bishal-lama",
+      "name": "Bishal Lama",
+      "role": "Jr. Officer",
+      "dept": "Account Department",
+      "group": "staff",
+      "desc": "",
+      "email": "bishal.lama@imperialsecurities.com.np",
+      "phone": "",
+      "linkedin": ""
+    },
+    {
+      "id": "kumar-adhikari",
+      "name": "Kumar Adhikari",
+      "role": "Sr. Assistant",
+      "dept": "Sell Edis",
+      "group": "staff",
+      "desc": "",
+      "email": "kumar.adhikari@imperialsecurities.com.np",
+      "phone": "",
+      "linkedin": ""
+    },
+    {
+      "id": "prajita-devkota",
+      "name": "Prajita Devkota",
+      "role": "Sr. Assistant",
+      "dept": "Dp Department",
+      "group": "staff",
+      "desc": "",
+      "email": "prajita.devkota@imperialsecurities.com.np",
+      "phone": "",
+      "linkedin": ""
+    },
+    {
+      "id": "sharmila-aryal",
+      "name": "Sharmila Aryal",
+      "role": "Assistant",
+      "dept": "Customer Service",
+      "group": "staff",
+      "desc": "",
+      "email": "dp@imperialsecurities.com.np",
+      "phone": "",
+      "linkedin": ""
+    },
+    {
+      "id": "pravesh-udas",
+      "name": "Pravesh Udas",
+      "role": "Assistant",
+      "dept": "Kyc Department",
+      "group": "staff",
+      "desc": "",
+      "email": "kyc@imperialsecurities.com.np",
+      "phone": "",
+      "linkedin": ""
+    },
+    {
+      "id": "jun-shrestha",
+      "name": "Jun Shrestha",
+      "role": "Assistant",
+      "dept": "Kyc Department",
+      "group": "staff",
+      "desc": "",
+      "email": "account@imperialsecurities.com.np",
+      "phone": "",
+      "linkedin": ""
+    },
+    {
+      "id": "subash-adhikari",
+      "name": "Subash Adhikari",
+      "role": "Assistant",
+      "dept": "Market Representative",
+      "group": "staff",
+      "desc": "",
+      "email": "account@imperialsecurities.com.np",
+      "phone": "",
+      "linkedin": ""
+    },
+    {
+      "id": "shiwani-joshi",
+      "name": "Shiwani Joshi",
+      "role": "Sr. Assistant",
+      "dept": "Compliance/Operation",
+      "group": "staff",
+      "desc": "",
+      "email": "npj@imperialsecurities.com.np",
+      "phone": "",
+      "linkedin": ""
+    },
+    {
+      "id": "pratik-hamal",
+      "name": "Pratik Hamal",
+      "role": "Assistant",
+      "dept": "Kyc Department",
+      "group": "staff",
+      "desc": "",
+      "email": "npj@imperialsecurities.com.np",
+      "phone": "",
+      "linkedin": ""
+    },
+    {
+      "id": "anuj-regmi",
+      "name": "Anuj Regmi",
+      "role": "Assistant",
+      "dept": "Account Department",
+      "group": "staff",
+      "desc": "",
+      "email": "npj@imperialsecurities.com.np",
+      "phone": "",
+      "linkedin": ""
+    },
+    {
+      "id": "muna-simkada",
+      "name": "Muna Simkada",
+      "role": "Jr. Officer",
+      "dept": "Customer Service",
+      "group": "staff",
+      "desc": "",
+      "email": "Dhading@imperialsecurities.com.np",
+      "phone": "",
+      "linkedin": ""
+    },
+    {
+      "id": "mohan-kumar-basnet",
+      "name": "Mohan Kumar Basnet",
+      "role": "Sr. Assistant",
+      "dept": "Compliance/Operation",
+      "group": "staff",
+      "desc": "",
+      "email": "Surkhet@imperialsecurities.com.np",
+      "phone": "",
+      "linkedin": ""
+    },
+    {
+      "id": "sangita-panta",
+      "name": "Sangita Panta",
+      "role": "Assistant",
+      "dept": "Customer Service",
+      "group": "staff",
+      "desc": "",
+      "email": "Surkhet@imperialsecurities.com.np",
+      "phone": "",
+      "linkedin": ""
+    },
+    {
+      "id": "kushum-bhandari-aryal",
+      "name": "Kushum Bhandari Aryal",
+      "role": "Assistant",
+      "dept": "Trading Department",
+      "group": "staff",
+      "desc": "",
+      "email": "Dhading@imperialsecurities.com.np",
+      "phone": "",
+      "linkedin": ""
+    },
+    {
+      "id": "sushmita-devkota",
+      "name": "Sushmita Devkota",
+      "role": "Assistant",
+      "dept": "Customer Service",
+      "group": "staff",
+      "desc": "",
+      "email": "kyc@imperialsecurities.com.np",
+      "phone": "",
+      "linkedin": ""
+    },
+    {
+      "id": "rabin-lamichhane",
+      "name": "Rabin Lamichhane",
+      "role": "Officer",
+      "dept": "IT Department",
+      "group": "staff",
+      "desc": "",
+      "email": "info45@imperialsecuriies.com.np",
+      "phone": "",
+      "linkedin": ""
+    }
+  ],
+  "news": [
+    {
+      "title": "How To Do EDIS (Transfer Share) In Mero Share using Browser after sold of any share.",
+      "slug": "how-to-do-edis-transfer-share-in-mero-share-using-browser-after-sold-of-any-share",
+      "excerpt": "कृपया यथाशीघ्र EDIS प्रक्रिया पूरा गर्नुहोला। अन्यथा नियमअनुसार २०% जरिवाना लाग्न सक्छ। 👉 कृपया MERO SHARE मा Google / Chrome / Safari / Web Browser मार्फत मात्र Login गर्नुहोस्। ❌ Mobile App प्रयोग नगर्नुहोस्। 1️⃣ My…",
+      "body": "कृपया यथाशीघ्र EDIS प्रक्रिया पूरा गर्नुहोला। अन्यथा नियमअनुसार २०% जरिवाना लाग्न सक्छ। \n\n👉 कृपया MERO SHARE मा Google / Chrome / Safari / Web Browser मार्फत मात्र Login गर्नुहोस्। ❌ Mobile App प्रयोग नगर्नुहोस्। \n\n1️⃣ My Purchase Source मा जानुहोस् र WACC Calculate गर्नुहोस्। ➡️ My Purchase Update गर्दा WACC Rate कति आएको छ भनेर अनिवार्य रूपमा Check गरेर मात्र Update गर्नुहोस्। \n\n2️⃣ My Purchase भित्र गएर → My Holding Update गर्नुहोस्। ℹ️ नोट: यदि तपाईंले बेचेको कम्पनी Merger भएको छ भने \" Update गर्दा “ User Defined Merger Flag” मा Click गर्नुहोस्। ➡️ Remarks मा “ Merger” लेख्नुहोस्।\" छैन भने, यो Step Skip गरेर अगाडि बढ्न सक्नुहुन्छ। \n\n3️⃣ My EDIS भित्र गएर → Transfer Share मा Click गर्नुहोस्। ➡️ View Details Click गर्नुहोस् ➡️ Select All मा Click गर्नुहोस् ➡️ त्यसपछि Update र Confirm गर्नुहोस् \n\n✔️ हरियो Highlight मा “ Successfully Transfer for Requested Share” देखिएपछि तपाईंको EDIS सफलतापूर्वक पूरा भएको मानिन्छ। \n\n⚠️ थप जानकारी ( Recent Update): हालका केही कम्पनीहरू Book Close मा रहेका कारण ➡️ EDIS गर्न नमिल्ने अवस्था देखिएको हुन सक्छ। EDIS कहिले Transferable हुन्छ भनेर बुझ्न तलको भिडियो हेर्नुहोस् 👇",
+      "date": "2026-01-25",
+      "seoTitle": "How To Do EDIS (Transfer Share) In Mero Share using Browser after sold of any share. — Imperial Securities",
+      "seoDescription": "कृपया यथाशीघ्र EDIS प्रक्रिया पूरा गर्नुहोला। अन्यथा नियमअनुसार २०% जरिवाना लाग्न सक्छ। 👉 कृपया MERO SHARE मा Google / Chrome / Safari / Web Browser मार्फत मात्",
+      "category": "Announcement"
+    },
+    {
+      "title": "Physical Certificate Dematerialization Rejection list",
+      "slug": "physical-certificate-dematerialization-rejection-list",
+      "excerpt": "Dear Valued Customers, This is to inform you all that your request for the dematerialization of physical certificates has been rejected by the RTS due to the following remarks. We kindly request you all to visit our…",
+      "body": "Dear Valued Customers,\n\nThis is to inform you all that your request for the dematerialization of physical certificates has been rejected by the RTS due to the following remarks. We kindly request you all to visit our office at your earliest convenience. Our team will assist you in resolving the noted concerns and resubmitting your request for dematerialization.\n\nPendding DRN \n\nS.N \n\nNAME \n\nBOID \n\nCompany \n\nFATHER NAME \n\nGRAND FATHER \n\nREMARKS \n\n1 \n\nSRIDHAR ACHARYA \n\n1301310000000157 \n\nSHBL \n\nBISHNU PRASAD ACHARYA \n\nHIRANYA PRASAD ACHARYA \n\nSELF PRESENT \n\n2 \n\nNABIN SHRESTHA \n\n1301310000000993 \n\nNIB \n\nGAYA NARAYAN SHRESTHA \n\nBIKU LAL SHRESTHA \n\nG.FATHER NAME NOT MATCH \n\n3 \n\nSHANKAR PRASAD GHIMIRE \n\n1301310000001393 \n\nBOKL \n\nDEV PRASAD GHIMIRE \n\nTIKA RAM GHIMIRE \n\nSELF PRESENT \n\n4 \n\nNIRAJ NEUPANE \n\n1301310000001661 \n\nSMFDB \n\nNIL KANTHA NEUPANE \n\nMOTI LAL NEUPANE \n\nSELF PRESENT \n\n5 \n\nUSHA POKHAREL \n\n1301310000003430 \n\nNIB \n\nKAMALA KANTA POKHREL \n\nJIBLAL POKHREL \n\nFATHER NAME MISTAKE \n\n6 \n\nGOPINI RIMAL \n\n1301310000003918 \n\nNIB \n\nKRISHNA PRASAD RIMAL \n\nTARA NATH RIMAL \n\nDP SIGN NOT MATCH \n\n7 \n\nUMESHRAJ PANDEY \n\n1301310000005797 \n\nNIB \n\nPITAMBER PRASAD PANDEY \n\nBALABHADRA PANDEY \n\nSIGN NOT MATCH \n\n8 \n\nJANUKA PRASAI \n\n1301310000006505 \n\nNIB \n\nRAM PRASAD PRASAI \n\nLAXMAN PRASAI \n\nDP SIGN NOT MATCH \n\n9 \n\nRAKESH SHRESTHA \n\n1301310000007401 \n\nEBL \n\nPREM KRISHNA SHRESTHA \n\nJAGAT MAN SHRESTHA \n\nSIGN NOT MATCH \n\n10 \n\nSHARMILA MANANDHAR \n\n1301310000007794 \n\nGBIME \n\nJAGAT BAHADUR MANANDHAR \n\nHIRA LAL MANANDHAR \n\nSIGN NOT MATCH \n\n11 \n\nJEEVAN KUMAR MALLA \n\n1301310000010524 \n\nJBNL \n\nMADHAV JUNG MALLA \n\nHOME JUNG MALLA \n\nSELF PRESENT \n\n12 \n\nSWOSTIKA SHRESTHA \n\n1301310000011697 \n\nHIDCL \n\nARJUN BABU SHRESTHA \n\nKEDAR BHAKTA SHRESTHA \n\nSELF PRESENT \n\n13 \n\nRAJENDRA BAHADUR ARYAL \n\n1301310000012540 \n\nUPPER \n\nKULA NAND ARYAL \n\nRABI LAL ARYAL \n\nCOM. SIGN NOT MATCH \n\n14 \n\nVIMAL GURUNG \n\n1301310000013029 \n\nSRBL \n\nBAL BAHADUR GURUNG \n\nBIR BAHADUR GURUNG \n\nCOM. SIGN NOT MATCH \n\n15 \n\nPRAMOD NEUPANE \n\n1301310000014928 \n\nBOKL \n\nPURUSHOTAM NEUPANE \n\nBHRAMA DATTA NEUPANE \n\nCOM. SIGN NOT MATCH \n\n16 \n\nPABITRA THAPA \n\n1301310000015391 \n\nMBL \n\nDOLAKH BAHADUR THAPA \n\nHIM LAL THAPA \n\nCOM SIGN NOT MATCH \n\n17 \n\nGYANU THAPA \n\n1301310000015425 \n\nHIDCL \n\nSHER BAHADUR THAPA \n\nCHAKRA BAHADUR THAPA \n\nGRANDFATHER NAME NOT MATCH \n\n18 \n\nGITA KHAREL \n\n1301310000015497 \n\nHIDCL \n\nISHWORI PRASAD KHARAL \n\nDURGA DATTA KHARAL \n\nSIGN NOT MATCH \n\n19 \n\nSUMITA GURUNG \n\n1301310000017076 \n\nCCBL \n\nSURYA JUNG GURUNG \n\nDHAN BAHADUR GURUNG \n\nSELF PRESENT \n\n20 \n\nUZZWAL RAM BHANDARY \n\n1301310000019356 \n\nPCBL \n\nBHUBANESWOR BHANDARY \n\nBAL BHADRA BHANDARY \n\nSIGN NOT MATCH \n\n21 \n\nBINOD THAPA \n\n1301310000020676 \n\nHIDCL \n\nUDDAV THAPA \n\nCHANDRA BAHADUR THAPA \n\nSIGN NOT MATCH \n\n22 \n\nSANTOSHI MAYA SHRESTHA \n\n1301310000022897 \n\nSRBL \n\nTHULO BABU SHRESTHA \n\nTILAK BAHADUR SHRESTHA \n\nSIGN NOT MATCH \n\n23 \n\nPRAMILA DHAKAL \n\n1301310000027561 \n\nHIDCL \n\nDAMBAR PRASAD DHAKAL \n\nRAM PRASAD DHAKAL \n\nCOM SIGN NOT MATCH \n\n24 \n\nRAJ KUMAR DAHAL \n\n1301310000025372 \n\nADBL \n\nHARI PRASAD DAHAL \n\nSHIV PRASAD DAHAL \n\nCOM. SIGN NOT MATCH \n\n25 \n\nBIBUDH LUITEL \n\n1301310000025786 \n\nNICA \n\nBIDUR PRASAD LUITEL \n\nKRISHNA PRASAD LUITEL \n\nSELF PRESENT \n\n26 \n\nBIDUR PRASAD LUITEL \n\n1301310000025807 \n\nOHL \n\nKRISHNA PRASAD LUITEL \n\nANIRUDRA LUITEL \n\nFATHER NAME MISTAKE \n\n27 \n\nSWECHCHHA SAPKOTA \n\n1301310000026395 \n\nSRBL \n\nRAJ BAHADUR SAPKOTA \n\nJIT BAHADUR SAPKOTA \n\nSIGN NOT MATCH \n\n28 \n\nRAJENDRA ADHIKARI \n\n1301310000027156 \n\nNGPL \n\nBHANU BHAKTA ADHIKARI \n\nKALI PRASAD ADHIKARI \n\nSELF PRESENT \n\n29 \n\nJANAK RAJ ARYAL \n\n1301310000027312 \n\nCBL \n\nHARI PRASAD ARYAL \n\nTEJ NARAYAN ARYAL \n\nCOM. SIGN NOT MATCH \n\n30 \n\nARYA POKHAREL \n\n1301310000027652 \n\nSRBL \n\nTEJ PRASAD POKHAREL \n\nTRAILOKYA NATH POKHAREL \n\nCOM. SIGN NOT MATCH \n\n31 \n\nNARAYAN HARI THAPA \n\n1301310000028242 \n\nCZBL \n\nPREM BAHADUR THAPA \n\nSANMAN THAPA \n\nSELF PRESENT \n\n32 \n\nINDRA PRASAD KHAREL \n\n1301310000029795 \n\nMEGA \n\nKHEM RAJ KHAREL \n\nLAXMI NARAYAN KHAREL \n\nCOM. SIGN NOT MATCH \n\n33 \n\nTRIPTI LAMSAL \n\n1301310000030230 \n\nSYFL \n\nPRADEEP LAMSAL \n\nDEVI PRASAD LAMSAL \n\nCOM. SIGN NOT MATCH \n\n34 \n\nNAMRATA DHAKAL \n\n1301310000030794 \n\nADBL \n\nRAJ MANI DHAKAL \n\nINDRA PRASAD DHAKAL \n\nSELF PRESENT \n\n35 \n\nSANGEETA JOSHI \n\n1301310000031462 \n\nMEGA \n\nKRISHNA NARSHING JOSHI \n\nKESHAR NARSHING JOSHI \n\nSELF PRESENT \n\n36 \n\nSURESH KUMAR NIROULA \n\n1301310000032257 \n\nOHL \n\nTEJ BINOD NIROULA \n\nANANTA PRASAD NIROULA \n\nSIGN NOT MATCH \n\n37 \n\nSUJATA K.C. KHATRI \n\n1301310000032641 \n\nCBL \n\nRAJU K.C. KHATRI \n\nARJUN KHATRI K.C. \n\nSELF PRESENT \n\n38 \n\nPOOZA K.C. \n\n1301310000032656 \n\nPCBL \n\nRAJU K.C. KHATRI \n\nARJUN KHATRI K.C. \n\nCOM SIGN NOT MATCH \n\n39 \n\nPOOZA K.C. \n\n1301310000032656 \n\nNICA \n\nRAJU K.C. KHATRI \n\nARJUN KHATRI K.C. \n\nCOM SIGN NOT MATCH \n\n40 \n\nBHAWANI DAHAL UPADHYAYA \n\n1301310000033932 \n\nSBL \n\nNETRA NATH BHANDARI \n\nWODA NATH BHANDARI \n\nSELF PRESENT \n\n41 \n\nMEDANI PRASAD SAPKOTA \n\n1301310000034309 \n\nBOKL \n\nGOPI CHANDRA SAPKOTA \n\nJANAK LAL SAPKOTA \n\nNEED TO CHANGE CERTIFICATE \n\n42 \n\nHEMRAJ KHADKA \n\n1301310000035545 \n\nSRBL \n\nUJIR SINGH KHADKA \n\nRAM NATH KHADKA \n\nCOM. SIGN NOT MATCH \n\n43 \n\nSUJAL ADHIKARI \n\n1301310000037065 \n\nRMFL \n\nRAJ BIKRAM ADHIKARI \n\nLILA CHANDRA ADHIKARI \n\nSELF PRESENT \n\n44 \n\nSASMITA RAJYA LAXMI RANA \n\n1301310000037994 \n\nHIDCL \n\nSURYA BIKRAM RANA \n\nSURYA BIKRAM RANA \n\nSELF PRESENT \n\n45 \n\nBHABAWAN SUBEDI \n\n1301310000039379 \n\nNIB \n\nNERENDRA SUBADI \n\nSHAMBHU SUBADI \n\nNAME MISTAKE \n\n46 \n\nBHAKTA DEVI RAI \n\n1301310000042434 \n\nAKPL \n\nJHANKAR SING RAI \n\nKRISHNA BIR RAI \n\nSELF PRESENT \n\n47 \n\nNARENDRA PRASAD NEUPANE \n\n1301310000043710 \n\nJBBL \n\nBHANU BHAKTA NEUPANE \n\nDILLIRAM NEUPANE \n\nSELF PRESENT \n\n48 \n\nANITA PRAJAPATI \n\n1301310000043900 \n\nMEGA \n\nBABU KAJI PRAJAPRATI \n\nKASHA KUMAR PRAJAPATI \n\nCOM. SIGN NOT MATCH \n\n49 \n\nBADRI PRASAD PATHAK \n\n1301310000044085 \n\nSLICL \n\nHARI NARAYAN PATHAK \n\nPRAJAPATI PATHAK \n\nSELF PRESENT \n\n50 \n\nBADRI PRASAD PATHAK \n\n1301310000044085 \n\nJBNL \n\nHARI NARAYAN PATHAK \n\nPRAJAPATI PATHAK \n\nSELF PRESENT \n\n51 \n\nBADRI PRASAD PATHAK \n\n1301310000044085\n\n[Full notice published on imperialsecurities.com.np.]",
+      "date": "2024-05-15",
+      "seoTitle": "Physical Certificate Dematerialization Rejection list — Imperial Securities",
+      "seoDescription": "Dear Valued Customers, This is to inform you all that your request for the dematerialization of physical certificates has been rejected by the RTS due to the fo",
+      "category": "Corporate"
+    }
+  ],
+  "blog": [
+    {
+      "title": "Mutual Fund- A Boon Or A Bane In Nepalese Context",
+      "slug": "mutual-fund-a-boon-or-a-bane-in-nepalese-context",
+      "excerpt": "A mutual fund is a financial intermediary that pools the savings of investors for collective investments in a diversified portfolio of securities. A fund is said to be mutual as all of its returns, minus its expenses…",
+      "body": "A mutual fund is a financial intermediary that pools the savings of investors for collective investments in a diversified portfolio of securities. A fund is said to be mutual as all of its returns, minus its expenses are shared by the fund investors. A mutual fund serves as a link between the investor and the securities market by mobilizing savings from the investors and investing them in the securities market so as to generate returns. Thus, a mutual fund is a kin to Portfolio Management Services (PMS). The government of Nepal has made mandatory provisions to allocate 5% of the total initial public offerings(IPO) for mutual funds. The mutual fund plays a vital role in the securities market and has its own importance/benefits.\n\nMutual funds in Nepal are a relatively new investment option, but they have quickly become popular among investors. Some of the major reasons for this include Professional management, Portfolio Diversification, Reduction in transaction costs, transparency, affordability, liquidity, Convenience and flexibility, and so on.\n\n- Professional management: \n\nAn average investor lacks the knowledge of capital market operations and doesn't have large resources to reap the benefits of investment. Hence, one requires the help of an expert. It is not only expensive to “hire the services of an expert” but much more difficult to identify the real expert. Mutual funds are managed by professional managers who have the requisite skills, knowledge, and experience to analyze the performance and prospectus of companies. They make possible an organized investment strategy, which is hardly possible for an individual investor.\n\n- Portfolio Diversification: \n\nAn investor undertakes risks if one invests all of his funds in a single script. Mutual fund invests in a number of companies across various industries and sectors. This diversification reduces the riskiness of the investments. One doesn't invest in a mutual fund but rather invests through a mutual fund. Thus one can invest in diversified sectors with a small fund as low as Rs.1000, where s/he gets 100Units of Face Value Rs.10.\n\n- Reduction in transaction costs: \n\nCompared to direct investing in the capital market, investing through mutual funds is relatively less expensive as the benefits of economies of scale are passed onto the investors.\n\n- Liquidity: \n\nOften, investors cannot sell the securities held easily, while in the case of mutual funds, they can easily encash their investment by selling their units to the fund if it is an open-handed scheme or selling them on a stock exchange if it is a close-ended scheme.\n\n- Convenience :\n\nInvesting in mutual funds reduces paperwork, saves time, and makes investment easy.\n\n- Transparency: \n\nMutual funds are highly regulated and transparent investments. Investors can easily track detailed information about the fund's holdings, performances, and fees. Performances can be easily traced through their NAV(Net Assets Value). NAV per share can be obtained by dividing net assets( total market value of assets minus liability ) by the number of shares or units outstanding.",
+      "date": "2023-12-01",
+      "seoTitle": "Mutual Fund- A Boon Or A Bane In Nepalese Context — Imperial Securities",
+      "seoDescription": "A mutual fund is a financial intermediary that pools the savings of investors for collective investments in a diversified portfolio of securities. A fund is sai",
+      "category": "Analysis",
+      "author": "Imperial Securities",
+      "readTime": "8 min"
+    },
+    {
+      "title": "NEPSE: The Game of Narrative",
+      "slug": "nepse-the-game-of-narrative",
+      "excerpt": "NEPSE is a game of narrative; and story. If we vividly remember the good old days of the 2020-21 bull market, the rise from 1100 to 3200 was a complete narrative game. Liquidity plays a vital role, let's keep this…",
+      "body": "NEPSE is a game of narrative; and story. If we vividly remember the good old days of the 2020-21 bull market, the rise from 1100 to 3200 was a complete narrative game. Liquidity plays a vital role, let's keep this thing aside and focus on the narrative. Narratives are influenced by market makers to the public.\n\nStocks are not traded in the market, narratives are traded. Narrative drive to speculation and speculation drive to unsustainable rally (unhealthy growth) of the price. \n\nCase studies 1: Hydropower \n\nHydropower is generally small-cap in nature. There is a lockup period for 3 years of promoters meaning they (promoters) can't sell for a minimum of 3 years. Low paid-up capital equates to less supply in the market, anywhere from 2-3 big whales can absorb major supply easily creating artificial scarcity of supply that led to a pump in stock price. What boosted its rally was the news of right shares. The price of the stock that proposed the right share was about 400-500% on average. Some of the stocks even did 10x. \n\nCase studies 2: NRIC \n\nNRIC, issued IPO to the public during the pre-COVID, listed in mid-COVID, and rallied post-COVID. The only licensed approved reinsurance in Nepal, the government had heavily invested, once it is successful in collecting premiums from foreign countries, it is the next big thing. The narrative was slowly building the hype cycle of NRIC. They never used to update their quarterly reports in time. Since it collects premiums from other countries, the paid-up capital was too small for NRIC, so the right share was imminent. This narrative drove the price from Rs 500 to Rs 2000, the right share was never announced and now this stock is trading at Rs 629 as of writing.\n\nCase studies 3: RBCL \n\nOne of the funniest rallies I have ever seen in the capital market since I joined was in RBCL. \n\nA company with paid-up capital of only Rs 26 crore, but this is very small for a non-life insurance company because as per the insurance board, the minimum requirement for a non-life insurance company was a minimum of Rs 1 arba at that time (now 2.5 arba). So the only possible way for RBCL to increase their paid-up was through bonus shares. A government-owned company, very old, had an enormous amount of assets to its name which can easily pass bonus shares. Hyping up the narrative again, the stock rallied from Rs 10k to Rs 25k. It topped in May 2021, as of October 2023, no notice of bonus shares has been announced and the stock price is Rs 13-14k per share. Accumulate, make stories, spread stories, sell stories. That's how it is played right?\n\nCase studies 4: NTC \n\nA mature strong fundamentally sound company NTC is a government-backed company with a whooping 91% stake meaning very less floatable shares in the tradable market. Never in its operational life, has the company ever announced any kind of bonus or right shares. But this is a bull market, the story is “traded” not the “stocks”. Any kind of story, from minor to major, any story is sold in this bull market and I am pretty sure some sort of new narrative will be formed in future upcoming bull markets as well. The rumor around every corner from social media to group chat, NTC is about to make its debut bonus share announcement was roaming around for quite some time. As expected, the price rallied from Rs 1000 to Rs 1800. The strange thing here is, this rally happened after the market topped out in August 2021. The rally started in October 2021 and topped out in February 2022. When NTC proposed bonus shares, it became the top of its individual cycle and the stock price hasn’t recovered to date.",
+      "date": "2023-11-08",
+      "seoTitle": "NEPSE: The Game of Narrative — Imperial Securities",
+      "seoDescription": "NEPSE is a game of narrative; and story. If we vividly remember the good old days of the 2020-21 bull market, the rise from 1100 to 3200 was a complete narrativ",
+      "category": "Analysis",
+      "author": "Imperial Securities",
+      "readTime": "8 min"
+    }
+  ],
+  "socials": {
+    "facebook": "https://www.facebook.com/imperial45",
+    "instagram": "https://www.instagram.com/imperial_securities_45",
+    "linktree": "https://linktr.ee/45imperial"
+  },
+  "foundation": {
+    "mission": "Our goal is to provide the best quality service to have complete harmony between quality in process and continuous improvement to deliver exceptional service to delight our clients thereby contributing to the capital market of the country and create excellent market growth opportunity for our employees.",
+    "vision": "To provide best value for money to investors through innovative products, trading/investment strategies, state-of- the-art technology and personalized services.",
+    "values": "To have complete harmony between quality in process and continuous improvement to deliver exceptional service that will delight our Customers and Clients. Our Motto Is “Guides Towards Prosperity"
+  },
+  "board": [
+    {
+      "name": "Bhaktiram Ghimire",
+      "role": "Chairman",
+      "bio": "Bhaktiram Ghimire, an esteemed finance expert with a Tribhuvan University MBA, boasts 20+ years in the capital market. As a revered professor, he adeptly navigates financial complexities, earning acclaim as a stalwart in finance.",
+      "email": "sbrghimire@gmail.com"
+    },
+    {
+      "name": "Sitaram Adhikari",
+      "role": "Director",
+      "bio": "Sitaram Adhikari, a finance luminary, excels with two decades in stock brokerage post his prestigious MBA from Tribhuvan University. His climb epitomizes dedication, analytical acumen, and leadership, inspiring emerging professionals beyond the stock market.",
+      "email": "sharmasr786@gmail.com"
+    },
+    {
+      "name": "Rabikala Pageni",
+      "role": "Director",
+      "bio": "Director, Imperial Securities Company Limited.",
+      "email": "ravikalap@gmail.com"
+    }
+  ]
+}
